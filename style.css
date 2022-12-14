@@ -1,0 +1,62 @@
+h1,
+h2,
+h3 {
+    color: #4d2811;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+body {
+    background-color: #F0EBCE;
+}
+
+nav ul {
+    padding-right: 25px;
+}
+
+p,
+ul,
+li {
+    font-family: 'Alegreya Sans', sans-serif;
+    ;
+    font-size: 18px;
+    color: #4d2811;
+}
+
+section {
+    padding: 50px 0px 50px 0px;
+}
+
+.nav-link,
+.navbar-brand {
+    color: black;
+}
+
+.card:hover {
+    box-shadow: 7px 7px 20px #967E76;
+}
+
+.card-title {
+    color: #472D2D;
+}
+
+footer {
+    background-color: rgb(241, 208, 102);
+    padding: 25px 55px 25px 55px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.contact {
+    font-size: 36px;
+    color: #624522;
+}
+
+.icons-sm a {
+    color: #472D2D;
+}
+
+.doneaza {
+    text-decoration: none;
+    color: #472D2D;
+}
